@@ -33,5 +33,10 @@ public class Position {
 		public String toString() {
 			return row + "," + column;
 }
+
+	public int getColumns() {
+		// esse eu criei 
+		return 0;
+	}
 	
 }
